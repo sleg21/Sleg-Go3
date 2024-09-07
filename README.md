@@ -1,2 +1,2 @@
-# Sleg-Go3-
+# Sleg-Go3
 Seckit Go3 - Sleg style 
